@@ -1,0 +1,2 @@
+# promts-openai
+NAME | PROMPT | DESCRIPTION | EXAMPLE
